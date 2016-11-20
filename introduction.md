@@ -1,2 +1,17 @@
 Hi, I am Daniel!
-My Fav. Path is now JavaScript!
+My Current Fav. Path is JavaScript!
+My Deadly Skills include:
+* Git, 
+* GitHub, 
+* Killing history using git rebase
+* Angular2, 
+* React, 
+* JavaScript, 
+* Ruby, 
+* ROR, 
+* HTML5, 
+* CSS3, 
+* Sass, 
+* Bootstrap, 
+* WordPress, 
+* etc.
